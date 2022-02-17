@@ -1,0 +1,9 @@
+1. obtain input number "n"
+2. declare variable "sum_of_squares" and set it to 0
+3. start loop at 1
+4. multiply current loop number by itself and add to "sum_of_squares"
+5. increment current loop number by 1
+6. check if current loop number is greater than "n"
+6.a. if current loop number is not greater than "n", repeat steps 4-6
+6.b. if current loop number is greater than "n", exit loop
+7. print "sum_of_squares"
